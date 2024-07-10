@@ -1,0 +1,20 @@
+#N2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#N4 {
+    background-color: #90ee90;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+.odd {
+    background-color: hsl(351, 100%, 86%);
+    font-family: Verdana, "DejaVu Sans", sans-serif ;
+}
+
+.three {
+    font-size: 24px;
+    font-weight: bold;
+}
